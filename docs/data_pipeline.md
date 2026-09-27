@@ -1,4 +1,4 @@
-# Person 1 – Dataset and Propagation Pipeline
+# Dataset and Propagation Pipeline
 
 ## 1. Overview
 
